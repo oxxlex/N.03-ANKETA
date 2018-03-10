@@ -37,6 +37,6 @@ if (retired ==true) {
 else{
     retiredString='no';
 }
-alert ('Your full name is : ' + userName + ' ' + userLastName + '\n' + 'Your age is : ' + age + ' years' + '\n' + 'Your age in days : ' + age*365 + '\n'  + 'In five years you will be : ' + (parseInt(age)+parseInt(5)) + '\n' + 'Are you a man? ' + sex + '\n' + 'You are retired : ' + retiredStringA);
+alert ('Your full name is : ' + userName + ' ' + userLastName + '\n' + 'Your age is : ' + age + ' years' + '\n' + 'Your age in days : ' + age*365 + '\n'  + 'In five years you will be : ' + (parseInt(age)+parseInt(5)) + '\n' + 'Are you a man? ' + sex + '\n' + 'You are retired : ' + retiredString);
 
 
